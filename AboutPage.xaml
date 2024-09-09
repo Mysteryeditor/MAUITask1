@@ -4,7 +4,6 @@
              x:Class="HelloMauiApp.AboutPage">
 
     <StackLayout Padding="30" Spacing="20" VerticalOptions="Center">
-        <!-- About Page Content -->
         <Label Text="Welcome to the About Page!" 
                FontSize="24" 
                HorizontalOptions="Center" />
